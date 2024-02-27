@@ -27,3 +27,8 @@ Steps to Reproduce
     Include relevant charts, graphs, and tables to showcase spending patterns, trends, and insights.
     Provide filters and interactivity options for users to explore the data dynamically.
 
+   ![image](https://github.com/rraghavs/E-Commerce-analysis/assets/156885378/bd2833ce-3bf8-4fe8-bc5e-e827db33cc63)
+   ![image](https://github.com/rraghavs/E-Commerce-analysis/assets/156885378/ce746394-4418-43bb-b997-ec3a664691c9)
+
+
+
