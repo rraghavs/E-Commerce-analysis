@@ -35,10 +35,13 @@ In this project, we aim to conduct a comprehensive analysis of our E-commerce pl
 
 ### ER-Diagram
 
+   ![image](https://github.com/rraghavs/E-Commerce-analysis/assets/156885378/ce746394-4418-43bb-b997-ec3a664691c9)
+
+
    ![image](https://github.com/rraghavs/E-Commerce-analysis/assets/156885378/bd2833ce-3bf8-4fe8-bc5e-e827db33cc63)
 
    
-   ![image](https://github.com/rraghavs/E-Commerce-analysis/assets/156885378/ce746394-4418-43bb-b997-ec3a664691c9)
+ 
 
 
 
